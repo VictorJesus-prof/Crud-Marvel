@@ -59,5 +59,6 @@ Deploy online do projeto
 
 Projeto desenvolvido em parceria por:
 
-Victor Jesus da Silveira — GitHub
+Victor Jesus da Silveira — https://github.com/VictorJesus-prof
+
 Omar Tehcin el Wanni
